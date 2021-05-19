@@ -1,0 +1,8 @@
+{
+  "name": "storyart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Otrex/storyart.git",
+  "author": "storyart",
+  "license": "ISC"
+}
